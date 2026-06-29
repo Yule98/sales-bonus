@@ -1,3 +1,5 @@
+https://github.com/Yule98/sales-bonus
+
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
